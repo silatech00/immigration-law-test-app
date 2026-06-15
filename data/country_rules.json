@@ -1,0 +1,34 @@
+{
+  "Germany": {
+    "summary": "EU Blue Card for skilled workers; family reunification visas available for spouses and minor children.",
+    "common_visas": ["EU Blue Card", "Job Seeker", "Family Reunion", "Student"]
+  },
+  "United States": {
+    "summary": "H-1B for specialty occupations; B-1/B-2 for business/tourism; family-based and employment-based green card routes.",
+    "common_visas": ["H-1B", "L-1", "F-1", "B-1/B-2", "EB-2/EB-3"]
+  },
+  "United Kingdom": {
+    "summary": "Skilled Worker visa points-based system; visitor visas for short stays; student route via licensed sponsors.",
+    "common_visas": ["Skilled Worker", "Global Talent", "Student", "Visitor"]
+  },
+  "Canada": {
+    "summary": "Express Entry for economic immigration; Provincial Nominee Programs; study and work permits.",
+    "common_visas": ["Express Entry", "Provincial Nominee", "Study Permit", "Work Permit"]
+  },
+  "Australia": {
+    "summary": "Skilled migration via points test; employer-sponsored visas; student and visitor subclasses.",
+    "common_visas": ["Skilled Independent (189)", "Employer Sponsored (482)", "Student (500)", "Visitor (600)"]
+  },
+  "France": {
+    "summary": "Talent Passport for qualified workers; long-stay visas for work, study, and family; Schengen short-stay rules apply.",
+    "common_visas": ["Talent Passport", "Long-stay Work", "Student", "Schengen Short-stay"]
+  },
+  "Japan": {
+    "summary": "Work visas tied to employer sponsorship; highly skilled professional points system; designated activities for specific cases.",
+    "common_visas": ["Engineer/Specialist", "Highly Skilled Professional", "Student", "Designated Activities"]
+  },
+  "Singapore": {
+    "summary": "Employment Pass for professionals; S Pass for mid-skilled workers; Dependant's Pass for family members.",
+    "common_visas": ["Employment Pass", "S Pass", "Dependant's Pass", "Student Pass"]
+  }
+}

@@ -1,0 +1,27 @@
+# Secrets and local env
+.env
+.env.local
+.env.*.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Local runtime data
+data/sessions.db
+data/*.db
+
+# Streamlit local secrets (use Streamlit Cloud secrets in production)
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
